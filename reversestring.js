@@ -1,11 +1,4 @@
 function reverseString(str) {
-    var splitString = str.split(""); 
-   
-    var reverseArray = splitString.reverse();
- 
-    var joinArray = reverseArray.join("");
-   
-    return joinArray;
+    return str.split("").reverse().join("");
 }
- 
-reverseString("#hello from Jasey");
+reverseString("hello from Jasey");
