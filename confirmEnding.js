@@ -8,4 +8,4 @@ function confirmEnding(str, target) {
   }
 };
 
-confirmEnding("Bastian", "n");
+confirmEnding("Hello", "o");
