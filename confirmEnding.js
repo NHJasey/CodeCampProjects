@@ -6,6 +6,6 @@ function confirmEnding(str, target) {
   } else {
   return false;
   }
-}
+};
 
 confirmEnding("Bastian", "n");
