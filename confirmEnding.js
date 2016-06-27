@@ -1,4 +1,3 @@
-
 function confirmEnding(str, target) {
 
   var start = str.length-(target.length);
